@@ -18,8 +18,7 @@ A fork of **[MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube
 ## Notes
 
 - This extension should be compatible with any Firefox / Chromium based browser.
-- This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
-- This extension is unofficial and not affiliated with MrBeast or YouTube.
+- This extension has known conflicts with **[DeArrow](https://dearrow.ajay.app/)**, if you begin to have issues with this extension not working, try disabling DeArrow from the Extensions section of your browser's settings menu.
 
 ## Impact Hero and Refoorest
 
