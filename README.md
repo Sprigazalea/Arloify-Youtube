@@ -19,6 +19,7 @@ A fork of **[MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube
 
 - This extension should be compatible with any Firefox / Chromium based browser.
 - This extension has known conflicts with **[DeArrow](https://dearrow.ajay.app/)**, if you begin to have issues with this extension not working, try disabling DeArrow from the Extensions section of your browser's settings menu.
+- This extension is unofficial and not affiliated with Arlo or Youtube.
 
 ## Impact Hero and Refoorest
 
