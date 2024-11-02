@@ -7,7 +7,7 @@ trouble finding engaging blue-monster videos?
 
 **Butternut Squash? Yes, Please!**
 
-A fork of **[MrBeastify-Youtube][https://github.com/MagicJinn/MrBeastify-Youtube]** that adds **Arlo** to every thumbnail.
+A fork of **[MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)** that adds **Arlo** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
