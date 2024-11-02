@@ -3,12 +3,11 @@
 # Arloify
 
 Is your browser experience boring? Are you having  
-trouble finding engaging click-baity videos?
+trouble finding engaging blue-monster videos?
 
 **Butternut Squash? Yes, Please!**
 
-This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+A fork of **[MrBeastify-Youtube][https://github.com/MagicJinn/MrBeastify-Youtube]** that adds **Arlo** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
