@@ -1,11 +1,11 @@
 <div align = center>
 
-# MrBeastify
+# Arloify
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
 
-**Fear no more.**
+**Butternut Squash? Yes, Please!**
 
 This extension adds the famous  
 youtuber **MrBeast** to every thumbnail.
