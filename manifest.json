@@ -3,7 +3,7 @@
     "name": "YouTube Arloify",
     "version": "1.0",
     "icons": {
-        "96": "icon.jpg"
+        "96": "icon.png"
     },
     "description": "Modify YouTube thumbnails to include Arlo",
     "browser_action": {
