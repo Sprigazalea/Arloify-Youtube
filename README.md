@@ -9,10 +9,6 @@ trouble finding engaging blue-monster videos?
 
 A fork of **[MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)** that adds **Arlo** to every thumbnail.
 
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
-
 </div>
 
 ## Notes
